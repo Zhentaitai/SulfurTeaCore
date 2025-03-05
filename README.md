@@ -1,11 +1,11 @@
 <div align="center">
 
-# Tea Mod API | 茶模组API 
+# Sulfur Tea Mod API | 火湖-茶模组API 
 [![WIP Status](https://img.shields.io/badge/Status-Proof%20of%20Concept-orange)](https://github.com/yourname/tea-mod-api/milestones)
 [![BepInEx Version](https://img.shields.io/badge/BepInEx-5.4.21-green)](https://docs.bepinex.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-**一杯茶的功夫即可上手的游戏模组开发框架**​ | *A sip of tea to start surful modding!*  
+**一杯茶的功夫即可上手的火湖模组开发框架**​ | *A sip of tea to start surful modding!*  
 **目前只是画饼阶段😛**​ | *Currently, it's just a pie in the sky.*  
 
 </div>
@@ -57,7 +57,7 @@ graph TD
 
 ## 🚧 Contribution Guidelines | 贡献指引
 <!-- 添加具体开发路线图 -->
-### 2025.3
+### 2025.Q2
 ```plaintext
 [□□□□□□□□□□] 核心框架 (0%)
 [□□□□□□□□□□] 文档系统 (0%)

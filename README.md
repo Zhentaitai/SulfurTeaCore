@@ -5,7 +5,9 @@
 [![BepInEx Version](https://img.shields.io/badge/BepInEx-5.4.21-green)](https://docs.bepinex.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
+
 **一杯茶的功夫即可上手的火湖模组开发框架**​ | *A sip of tea to start surful modding!*  
+**基于BepInEx**​ | *Based on BepInEx*  
 **目前只是画饼阶段😛**​ | *Currently, it's just a pie in the sky.*  
 
 </div>
